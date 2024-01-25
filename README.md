@@ -24,7 +24,7 @@ Hi, I'm June! 👋
 ![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=react&style=flat-square)
 ![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss&style=flat-square)
 
-![Django](https://img.shields.io/badge/-DJANGO-000?&logo=django&style=flat-square)
+![Django](https://img.shields.io/badge/-Django-000?&logo=django&style=flat-square)
 ![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask&style=flat-square)
 ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=flat-square)
