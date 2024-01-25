@@ -14,20 +14,20 @@ Hi, I'm June! 👋
 
 ### **Languages & Frameworks**
 
-![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
-![Golang](https://img.shields.io/badge/-Golang-000?&logo=go&style=for-the-badge)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=for-the-badge)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=for-the-badge)
+![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=flat-square)
+![Golang](https://img.shields.io/badge/-Golang-000?&logo=go&style=flat-square)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript&style=flat-square)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=TypeScript&style=flat-square)
 
-![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro&style=for-the-badge)
-![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&style=for-the-badge)
-![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=react&style=for-the-badge)
-![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss&style=for-the-badge)
+![Astro](https://img.shields.io/badge/-Astro-000?&logo=astro&style=flat-square)
+![Next.js](https://img.shields.io/badge/-Next.js-000?&logo=next.js&style=flat-square)
+![ReactNative](https://img.shields.io/badge/-React_Native-000?&logo=react&style=flat-square)
+![Tailwind](https://img.shields.io/badge/-Tailwind-000?&logo=tailwindcss&style=flat-square)
 
-![Django](https://img.shields.io/badge/-DJANGO-000?&logo=django&style=for-the-badge)
-![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask&style=for-the-badge)
-![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&style=for-the-badge)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=for-the-badge)
+![Django](https://img.shields.io/badge/-DJANGO-000?&logo=django&style=flat-square)
+![Flask](https://img.shields.io/badge/-Flask-000?&logo=flask&style=flat-square)
+![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=mysql&style=flat-square)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=postgresql&style=flat-square)
 
 ### **Featured Projects**
 
