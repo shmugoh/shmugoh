@@ -32,6 +32,7 @@ Hi, I'm June! 👋
 ### **Featured Projects**
 
 <a href="https://github.com/shmugoh/sv-dlp"><img src="https://img.shields.io/badge/-sv--dlp-F9C200?&logo=googlestreetview&style=for-the-badge&labelColor=002233" /></a>
+<a href="https://whereisthegooglecar.xyz"><img src="https://img.shields.io/badge/-WhereIsTheGoogleCar-f7f7f7?&logo=googlemaps&style=for-the-badge&labelColor=002233" /></a>
 <a href="https://whentoplayvideo.vercel.app"><img src="https://img.shields.io/badge/-WhenToPlayVideo-f7f7f7?&logo=vercel&style=for-the-badge&labelColor=002233" /></a>
 
 ### **Socials**
