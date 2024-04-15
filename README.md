@@ -3,6 +3,11 @@ Hi, I'm Juan! 👋
 <img align="right" src="https://komarev.com/ghpvc/?username=shmugoh&style=for-the-badge&color=fe428e" />
 </h2>
 
+<picture >
+<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shmugoh&theme=radical&show_icons=true">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmugoh&theme=radical&show_icons=true">
+</picture>
+
 ### **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/-Python-000?&logo=Python&style=for-the-badge)
