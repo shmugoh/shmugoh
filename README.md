@@ -1,16 +1,7 @@
 <h2>
-Hi, I'm June! 👋 
+Hi, I'm Juan! 👋 
 <img align="right" src="https://komarev.com/ghpvc/?username=shmugoh&style=for-the-badge&color=fe428e" />
 </h2>
-
-<picture >
-<source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=shmugoh&theme=radical&show_icons=true">
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=shmugoh&theme=radical&show_icons=true">
-</picture>
-<picture>
-    <source media="(max-width: 600px)" srcset="">
-    <img width="40%"align="right" src="https://github.com/shmugoh/shmugoh/raw/main/poster.png">
-</picture>
 
 ### **Languages & Frameworks**
 
@@ -31,9 +22,10 @@ Hi, I'm June! 👋
 
 ### **Featured Projects**
 
-<a href="https://github.com/shmugoh/sv-dlp"><img src="https://img.shields.io/badge/-sv--dlp-F9C200?&logo=googlestreetview&style=for-the-badge&labelColor=002233" /></a>
-<a href="https://whereisthegooglecar.xyz"><img src="https://img.shields.io/badge/-WhereIsTheGoogleCar-f7f7f7?&logo=googlemaps&style=for-the-badge&labelColor=002233" /></a>
-<a href="https://whentoplayvideo.vercel.app"><img src="https://img.shields.io/badge/-WhenToPlayVideo-f7f7f7?&logo=vercel&style=for-the-badge&labelColor=002233" /></a>
+<a href="https://whereisthegooglecar.com"><img src="https://img.shields.io/badge/-WhereIsTheGoogleCar-f7f7f7?&logo=googlemaps&style=for-the-badge&labelColor=000" /></a>
+<a href="https://github.com/shmugoh/sv-dlp"><img src="https://img.shields.io/badge/-sv--dlp-F9C200?&logo=googlestreetview&style=for-the-badge&labelColor=000" /></a>
+<a href="https://github.com/shmugoh/pathman"><img src="https://img.shields.io/badge/-pathman-f7f7f7?&logo=go&style=for-the-badge&labelColor=000" /></a>
+
 
 ### **Socials**
 
